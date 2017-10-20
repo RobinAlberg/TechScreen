@@ -99,4 +99,6 @@ Please do get back to me! I'm here to get your site up and running.
 
 ### (optional/bonus) Can you set up a redirect from /netlify/anything to https://www.google.com/search? q=anything ?
 
+Well, I ran out of time, but I'd like to revisit this task on Sunday. I'll get back to you! 
+
 
