@@ -54,7 +54,7 @@ I did run into an unexplained error message when trying to deploy the site using
 ### Tell about how you made your site and why you chose the tools you did. Briefly explain a challenge you experienced in setting up this site and how you solved it.
 
 I chose the Hugo for my site generator because it was easy to configure on Windows (my available OS) and because the most 
-support videos were available on YouTube for the Hugo/Netlify setup (along with the [step-by-step on Netlify] (https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/). I experienced an unexplained error when trying to deploy 
+support videos were available on YouTube for the Hugo/Netlify setup (along with the [step-by-step on Netlify] (https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/)). I experienced an unexplained error when trying to deploy 
 the site but I found the solution quickly by googling the issue and following instructions for setup that I had previously 
 neglected.
 
