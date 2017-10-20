@@ -3,4 +3,4 @@
 /blog/my-post.php  /blog/my-post
 /blog              /post
 /google            https://www.google.com
-/anything          https://www.google.com/search? q=anything 
+/anything          "https://www.google.com/search? q=anything" 
