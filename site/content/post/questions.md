@@ -99,6 +99,6 @@ Please do get back to me! I'm here to get your site up and running.
 
 ### (optional/bonus) Can you set up a redirect from /netlify/anything to https://www.google.com/search? q=anything ?
 
-[Check it out!] (https://www.google.com/search?q=anything)
+[Check it out!] (https://rubber-tapper-dolphin-73868.netlify.com/anything)
 
 
